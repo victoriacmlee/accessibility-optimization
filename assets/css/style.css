@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* <!-- start of header --> */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* <!-- start of nav --> */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -75,6 +77,7 @@ main {
     margin-left: 20px;
 }
 
+/* side bar */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +137,7 @@ aside {
     max-width: 150px;
 }
 
+/* <!-- start of  --> */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,6 +164,7 @@ aside {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 
 .search-engine-optimization img {
     max-height: 200px;
@@ -188,6 +193,7 @@ aside {
     font-size: 36px;
 }
 
+/* footer style */
 footer {
     padding: 30px;
     clear: both;
